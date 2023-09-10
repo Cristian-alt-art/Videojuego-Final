@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9cc63fa29f6318a4d8836358785f8dda
+timeCreated: 1694360000
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neo Tech
+  fontNames:
+  - Neo Tech
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a14769b107344e4b8c880a39fe966a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

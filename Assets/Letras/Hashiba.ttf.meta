@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a9af6be6b7796d4aa3f865994b07093
+timeCreated: 1694359999
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hashiba
+  fontNames:
+  - Hashiba
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

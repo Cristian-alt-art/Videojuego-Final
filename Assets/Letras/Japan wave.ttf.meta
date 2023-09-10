@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8c8031d4286eb6748baf20b31150ca90
+timeCreated: 1694360000
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Japan Wave
+  fontNames:
+  - Japan Wave
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
